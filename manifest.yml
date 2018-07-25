@@ -1,4 +1,4 @@
 applications:
-name: spring-eureka  
+- name: spring-eureka  
 path: target/netfix-eureka-naming-server-0.0.1-SNAPSHOT.jar
 buildpack: https://github.com/cloudfoundry/java-buildpack.git
