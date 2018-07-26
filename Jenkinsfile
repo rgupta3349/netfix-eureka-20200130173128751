@@ -17,12 +17,10 @@ pipeline {
     target: 'api.run.pivotal.io',
     organization: 'com.rajan',
     cloudSpace: 'development',
-    credentialsId: '12345',
-    selfSigned: true, // default value is false
+    credentialsId: 'fadb8f49-9599-4967-8f7a-d65fb6ee72d1'
    
 )
             }
-        }
- 
+        } 
     }
 }
