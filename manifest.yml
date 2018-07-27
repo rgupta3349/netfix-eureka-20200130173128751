@@ -2,4 +2,4 @@ applications:
 - name: spring-eureka-withoutjenkin  
   path: target/netfix-eureka-naming-server-0.0.1-SNAPSHOT.jar
   domain: cfapps.io
-  host: eureka-test-service
+  host: eurekaserverservice
